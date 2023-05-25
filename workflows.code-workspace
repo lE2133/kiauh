@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/voron config/Voron-0-0.0r1/.github/workflows"
+		},
+		{
+			"name": "kiauh",
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.sendKeybindingsToShell": true
+	}
+}
